@@ -1,6 +1,6 @@
 LIVE: https://dalle-muskan.netlify.app/
 
-AI image generation uisng Dalle API. Features of community showcase, download and store images on cloud.
+AI image generation using OpenAI API. Features of community showcase, download and store images on cloud.
 
 Tech Stack: React, Node, Express, MongoDb
 
